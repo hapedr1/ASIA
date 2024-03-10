@@ -3,3 +3,8 @@ plotly==5.1.0
 pandas
 streamlit
 openpyxl
+dash
+dash-bootstrap-components
+pandas
+plotly
+dash-table
